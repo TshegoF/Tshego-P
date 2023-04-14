@@ -1,1 +1,2 @@
-# Tshego-P
+# MyPortfolioWebsite
+A lightweight, customizable personal portfolio website
